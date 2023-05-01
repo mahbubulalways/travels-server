@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "destination": "Coxs  Bazar",
+        "roomBed": "4 guests   2 bedrooms   2 beds   2 baths",
+        "roomWifi": "Wif Air conditioning Kitchen",
+        "flexibility": "Cancellation fexibility availiable",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "rating": "4.9 (20)",
+        "price": "$34/night",
+        "total": "$167 total",
+        "imgUrl": "https://images.unsplash.com/photo-1574226780565-388f10f8121e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "roomImg": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "description": "Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore incidunt vero magni obcaecati beatae fugiat possimus sint ex ipsam quis.Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+      },
+    {
+        "id": 2,
+        "destination": "Saint Martin",
+        "roomBed": "4 guests   2 bedrooms   2 beds   2 baths",
+        "roomWifi": "Wif Air conditioning Kitchen",
+        "flexibility": "Cancellation fexibility availiable",
+        "title": "Apartment in Lost Panorama",
+        "rating": "4.9 (20)",
+        "price": "$34/night",
+        "total": "$167 total",
+        "imgUrl": "https://images.unsplash.com/photo-1548275840-cd9d5c170ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80",
+        "roomImg": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "description": "Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore incidunt vero magni obcaecati beatae fugiat possimus sint ex ipsam quis.Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+      },
+    {
+        "id": 3,
+        "destination": "Sundarban",
+        "roomBed": "4 guests   2 bedrooms   2 beds   2 baths",
+        "roomWifi": "Wif Air conditioning Kitchen",
+        "flexibility": "Cancellation fexibility availiable",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "rating": "4.9 (20)",
+        "price": "$34/night",
+        "total": "$167 total",
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1663947578430-6265950b088d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "roomImg": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "description": "Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore incidunt vero magni obcaecati beatae fugiat possimus sint ex ipsam quis.Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+      },
+    {
+        "id": 4,
+        "destination": "Sreemangal",
+        "roomBed": "4 guests   2 bedrooms   2 beds   2 baths",
+        "roomWifi": "Wif Air conditioning Kitchen",
+        "flexibility": "Cancellation fexibility availiable",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "rating": "4.9 (20)",
+        "price": "$34/night",
+        "total": "$167 total",
+        "imgUrl": "https://images.unsplash.com/photo-1622040256403-313e14cad531?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "roomImg": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "description": "Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore incidunt vero magni obcaecati beatae fugiat possimus sint ex ipsam quis.Exploring the romantic city of Paris Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+      }
+]
+    
+
+
+  
+  
